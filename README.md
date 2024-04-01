@@ -1,4 +1,5 @@
-Demo: 
+Run GoLive trên Vscode: index.html 
+
 Các chức năng cho người dùng cuối (end-user) 
 + Hiển thị sản phẩm theo phân loại (có phân trang) 
 + Hiển thị chi tiết sản phẩm (thông tin chi tiết phù hợp với sản phẩm bán) 
